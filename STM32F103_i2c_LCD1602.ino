@@ -2,7 +2,7 @@
 // adapted sketch for Arduino by Nicu Florica (aka niq_ro)
 
 #include <Wire.h> 
-#include <LiquidCrystal_I2C.h>
+#include <LiquidCrystal_I2C.h>  // https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 
 // Set the LCD address to ox3F or 0x27 for a 16 chars and 2 line display
 LiquidCrystal_I2C lcd(0x3F , 16, 2);
