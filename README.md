@@ -9,6 +9,10 @@ my articles:
 
 - https://nicuflorica.blogspot.com/2020/03/afisaj-lcd1602-controlat-prin-protocol.html
 
+- https://arduinotehniq.blogspot.com/2020/03/2c-lcd1602-drived-by-stm32f103c.html
+
+- https://www.hackster.io/user0035382/i2c-lc1602-display-drived-by-stm32f103-e915f9
+
 
 ![schematic](http://grauonline.de/wordpress/wp-content/uploads/arduino_stm32f103c8t6-300x249.jpg)
 
